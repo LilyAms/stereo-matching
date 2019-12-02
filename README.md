@@ -5,8 +5,8 @@ Stereo Matching with loopy belief propagation. Assignment from the computer visi
 ---
 Given a left-right stereo image pair, the purpose of the assignment is to compute the left-right shift betwen the two images. 
 This is done through the computation of a disparity map.
-![Left Image] (https://github.com/LilyAms/stereo-matching/blob/master/Materiel/imL.png)
-![Right Image] (https://github.com/LilyAms/stereo-matching/blob/master/Materiel/imR.png)
+![Left Image] (Materiel/imL.png)
+![Right Image] (Materiel/imR.png)
 
 *Implementation*
 ---
